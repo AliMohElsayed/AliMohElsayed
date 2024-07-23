@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Student in the fields of ML/AI/Data Analytics and Data Engineering</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirna-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="AliMohElsayed" /> </p>
-- 📫 **How to reach me:** alielsayed1399@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AliMohElsayed&label=Profile%20views&color=0e75b6&style=flat" alt="AliMohElsayed" /> </p>
+- 📫 How to reach me **mirnatarek111@gmail.com**
 - 📄 **Know about my experiences:** [CV] (https://drive.google.com/file/d/1NV-lEwlJqmhOyImHbc-TovvA82rApCVg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
