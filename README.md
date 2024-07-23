@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliMohElsayed&label=Profile%20views&color=0e75b6&style=flat" alt="AliMohElsayed" /> </p>
 
+- 🔭 I’m currently still student at [Faculty of Computer and Data science](https://www.facebook.com/FCDS.AlexU/)
 - 📫 How to reach me **alielsayed1399@gmail.com**
 - 📄 **Know about my experiences:** [CV](https://drive.google.com/file/d/1NV-lEwlJqmhOyImHbc-TovvA82rApCVg/view)
 
