@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*f-0MUEuaILWShigxdiqkjw.jpeg)
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQH4Gq7SbhIsbQ/profile-displaybackgroundimage-shrink_350_1400/0/1719353480450?e=1727308800&v=beta&t=lZicKU-x8rthlMBrqYKQJJrNVnHtwZSBfW0V7rNl6hM)
 <h1 align="center">Hi 👋, I'm Ali Elsayed</h1>
 <h3 align="center">A passionate Student in the fields of ML/AI/Data Analytics and Data Engineering</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
