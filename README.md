@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/f2af616491a44305af1348b302052690e3a932f78b339c94eeb91a7206361b08/68747470733a2f2f7777772e686179732e636f6d2e61752f646f63756d656e74732f333137333630392f333731363939382f496d6167655f546563685f4a6f625f536f6674776172655f446576656c6f7065725f4c616e64696e67506167652e6a70672f34383266636430322d313863642d376164632d363965632d3238313037303931333961663f743d31363138393032383635323333)
+![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg)
 <h1 align="center">Hi 👋, I'm Ali Elsayed</h1>
 <h3 align="center">A passionate Student in the fields of ML/AI/Data Analytics and Data Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
