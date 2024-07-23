@@ -1,7 +1,7 @@
 ![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg)
 <h1 align="center">Hi 👋, I'm Ali Elsayed</h1>
 <h3 align="center">A passionate Student in the fields of ML/AI/Data Analytics and Data Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirna-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="AliMohElsayed" /> </p>
 
