@@ -1,9 +1,9 @@
 ![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg)
 <h1 align="center">Hi 👋, I'm Ali Elsayed</h1>
 <h3 align="center">A passionate Student in the fields of ML/AI/Data Analytics and Data Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="AliMohElsayed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirna-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="AliMohElsayed" /> </p>
 
 - 📫 How to reach me **alielsayed1399@gmail.com**
 
