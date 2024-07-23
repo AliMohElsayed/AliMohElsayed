@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliMohElsayed&label=Profile%20views&color=0e75b6&style=flat" alt="AliMohElsayed" /> </p>
-- 📫 How to reach me **mirnatarek111@gmail.com**
-- 📄 **Know about my experiences:** [CV] (https://drive.google.com/file/d/1NV-lEwlJqmhOyImHbc-TovvA82rApCVg/view?usp=sharing)
+- 📫 How to reach me **alielsayed1399@gmail.com**
+- 📄 **Know about my experiences:** [CV](https://drive.google.com/file/d/1NV-lEwlJqmhOyImHbc-TovvA82rApCVg/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
