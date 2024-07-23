@@ -1,4 +1,4 @@
-![MasterHead](hhttps://cytech.cyu.fr/medias/photo/233242_1615370373523-jpg?ID_FICHE=21860)
+![MasterHead](https://grads.itc.edu.kh/wp-content/uploads/2022/09/data-team-structure-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Ali Elsayed</h1>
 <h3 align="center">A passionate Student in the fields of ML/AI/Data Analytics and Data Engineering</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
