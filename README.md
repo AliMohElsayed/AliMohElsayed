@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b7e32aba-cbd1-4f57-93b7-4765df08f523)<h1 align="center">Hi 👋, I'm Ali Elsayed</h1>
+<h1 align="center">Hi 👋, I'm Ali Elsayed</h1>
 <h3 align="center">A passionate Student in the fields of ML/AI/Data Analytics and Data Engineering</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
