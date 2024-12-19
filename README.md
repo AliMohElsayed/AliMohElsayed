@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently still student at [Faculty of Computer and Data science](https://www.facebook.com/FCDS.AlexU/)
 - 📫 How to reach me **alielsayed1399@gmail.com**
-- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1kqHDxKwESzIIWSiWza5u1qzNz6RoDs0m/view?usp=sharing)
+- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1gaiyg-Su9NOLsJ-QTPE2Awaf4qVc69uS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
