@@ -103,10 +103,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliMohElsayed&show_icons=true&locale=en&layout=compact" alt="AliMohElsayed Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliMohElsayed&show_icons=true&locale=en" alt="AliMohElsayed GitHub Stats" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AliMohElsayed&show_icons=true&locale=en" alt="AliMohElsayed GitHub Stats" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliMohElsayed" alt="AliMohElsayed Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliMohElsayed" alt="AliMohElsayed Streak Stats" />
-</p>
