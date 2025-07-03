@@ -9,10 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Student at [Faculty of Computer and Data Science - Alexandria University](https://www.facebook.com/FCDS.AlexU/)
+- 🎓 Graduated from [Faculty of Computer and Data Science - Alexandria University](https://www.facebook.com/FCDS.AlexU/)
 - 💡 Passionate about Machine Learning, Data Engineering, and AI-driven solutions
-- 📊 Exploring tools like Python, SQL, Power BI, and TensorFlow
-- 🌍 Currently building projects that combine data science and cloud platforms
 - 📬 Contact me at: **alielsayed1399@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1aimJHJvlxHBpqp_c-Uo5_x5OYmi49pi_/view?usp=sharing)
 
@@ -46,9 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AliMohElsayed&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliMohElsayed&theme=radical" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMohElsayed&layout=compact&theme=radical" alt="Top Languages" />
@@ -56,9 +51,4 @@
 
 ---
 
-### ✨ Quote to Live By
-
-> _"The best way to predict the future is to invent it."_ – Alan Kay
-
----
 
