@@ -22,10 +22,8 @@
   <a href="https://www.linkedin.com/in/ali-moh-sayed/" target="_blank" aria-label="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/AliMohamedElsayed11" target="_blank" aria-label="Facebook">
-    <svg height="30" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
-      <path d="M22.675 0h-21.35C.6 0 0 .6 0 1.337v21.326C0 23.4.6 24 1.325 24H12.82v-9.294H9.692v-3.622h3.127V8.413c0-3.1 1.894-4.788 4.659-4.788 1.325 0 2.466.098 2.798.142v3.24l-1.918.001c-1.504 0-1.796.715-1.796 1.763v2.31h3.587l-.467 3.622h-3.12V24h6.116c.73 0 1.324-.6 1.324-1.337V1.337C24 .6 23.405 0 22.675 0z"/>
-    </svg>
+  <a href="https://www.facebook.com/AliMohamedElsayed11" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="Facebook" height="30" />
   </a>
   <a href="https://www.instagram.com/alimohamedelsayed11/" target="_blank" aria-label="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
