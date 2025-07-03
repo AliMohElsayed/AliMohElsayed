@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Elsayed</h1>
 <h3 align="center" style="font-weight:normal; margin-top:-10px;">A passionate Student in the fields of ML/AI/Data Analytics and Data Engineering</h3>
 
-<p align="right">
+<p align="center">
   <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 
