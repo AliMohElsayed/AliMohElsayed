@@ -99,14 +99,14 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliMohElsayed&show_icons=true&locale=en&layout=compact" alt="AliMohElsayed Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliMohElsayed&show_icons=true&locale=en&layout=compact" alt="AliMohElsayed Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliMohElsayed&show_icons=true&locale=en" alt="AliMohElsayed GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliMohElsayed&show_icons=true&locale=en" alt="AliMohElsayed GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AliMohElsayed" alt="AliMohElsayed Streak Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliMohElsayed" alt="AliMohElsayed Streak Stats" />
 </p>
