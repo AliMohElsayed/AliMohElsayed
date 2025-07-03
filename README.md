@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-moh-sayed/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://www.facebook.com/AliMohamedElsayed11" target="_blank"><img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" height="30" /></a>
+  <a href="https://www.facebook.com/AliMohamedElsayed11" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="30" /></a>
   <a href="https://www.instagram.com/alimohamedelsayed11/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
 
