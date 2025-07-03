@@ -103,10 +103,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliMohElsayed&show_icons=true&locale=en&layout=compact" alt="AliMohElsayed Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AliMohElsayed&show_icons=true&locale=en" alt="AliMohElsayed GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliMohElsayed" alt="AliMohElsayed Streak Stats" />
 </p>
