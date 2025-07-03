@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliMohElsayed" alt="Ali Streak" />
+  <img src="https://streak-stats.demolab.com?user=AliMohElsayed&theme=default" alt="Ali Streak" />
 </p>
 
 <p align="center">
