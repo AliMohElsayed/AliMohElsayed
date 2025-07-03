@@ -29,23 +29,12 @@
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,js,php,r" />
-
-  <!-- Databases & Backend -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
-
-  <!-- Data Science / ML -->
   <img src="https://skillicons.dev/icons?i=tensorflow,scikit-learn,pandas,jupyter" />
-  
-  <!-- Visualization & BI -->
   <img src="https://skillicons.dev/icons?i=powerbi,tableau" />
   <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="Excel" width="40" height="40"/>
-
-  <!-- Dev Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-  <!-- Additional Tools -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" alt="Odoo" width="40" height="40"/>
