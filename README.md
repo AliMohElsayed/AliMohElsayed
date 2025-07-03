@@ -39,6 +39,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" alt="Odoo" width="40" height="40"/>
 </p>
+
 ---
 
 ### 📈 GitHub Insights
